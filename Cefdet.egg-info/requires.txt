@@ -1,8 +1,0 @@
-tqdm
-yacs
-opencv-python
-tensorboardX
-SciPy
-matplotlib
-cython-bbox
-easydict
