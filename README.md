@@ -39,4 +39,4 @@ If you find this repository useful, please use the following BibTeX entry for ci
 ```
 ## Acknowledgement
 
-Our code is built upon the codebase from [AlphAction](https://github.com/MVIG-SJTU/AlphAction), [HIT](https://github.com/joslefaure/HIT), and many other great Repos, we would like to express our gratitude for their outstanding work.
+Our code is built upon the codebase from [AlphAction](https://github.com/MVIG-SJTU/AlphAction), [HIT](https://github.com/joslefaure/HIT), [Detectron2](https://github.com/facebookresearch/detectron2), and many other great Repos, we would like to express our gratitude for their outstanding work.
